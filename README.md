@@ -8,12 +8,13 @@
 </head>
 <body>
     <header>
-        ![20241001_214438](https://github.com/user-attachments/assets/e98dac99-9e6f-4f48-999e-60cc49d90862)
-        <h1>Nethali Sanjana</h1>
-        <p>Hello! I’m Sanjana, a passionate university student studyingbiotechnology with a keen interest in microbiology. I thrive oncreativity and innovation, always seeking new challenges that pushmy boundaries. I believe in lifelong learning and enjoy collaboratingwith others to bring ideas to life.</p>
-        <img src=!!
+        
+ <h1>Nethali Sanjana</h1>
+        
+   <p>Hello! I’m Sanjana, a passionate university student studyingbiotechnology with a keen interest in microbiology. I thrive oncreativity and innovation, always seeking new challenges that pushmy boundaries. I believe in lifelong learning and enjoy collaboratingwith others to bring ideas to life.</p>
+        
 >
-    </header>
+    
 
 
    
