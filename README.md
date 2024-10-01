@@ -3,14 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Portfolio</title>
-    <link rel="stylesheet" href="styles.css">
+   
+    
 </head>
 <body>
     <header>
+        ![20241001_214438](https://github.com/user-attachments/assets/e98dac99-9e6f-4f48-999e-60cc49d90862)
         <h1>Nethali Sanjana</h1>
         <p>Hello! I’m Sanjana, a passionate university student studyingbiotechnology with a keen interest in microbiology. I thrive oncreativity and innovation, always seeking new challenges that pushmy boundaries. I believe in lifelong learning and enjoy collaboratingwith others to bring ideas to life.</p>
-        <img src=!
+        <img src=!!
 >
     </header>
 
@@ -27,7 +28,7 @@
   
    <li>BSc.(Hons) in Biotechnology - 
         Sri Lanka Institute of Information Technology - (
-        2024 - 2028)
+        2024 - Until 2028)
 
   
   
@@ -44,19 +45,25 @@
    </section id="Hobbies">
       <h2>Hobbies</h2>
          <li>Reading
-         <li> Writing
+         <li> Writting
          <li>Gardening
         </ul>
+        
+    
+
+    
+<h2>Downloadable Resume</h2>
+<p><a href=[HS24510033_Sanjana G.K.N.K (2).Pdf](https://github.com/user-attachments/files/17212714/HS24510033_Sanjana.G.K.N.K.2.Pdf) download>Download my resume (PDF)</a></p>
     </section>
 
-    <section id="resume">
-        <h2>Downloadable Resume</h2>
-        <p><a href="your-resume.pdf" download>Download my resume (PDF)</a></p>
-    </section>
 
-    <footer>
-        <h2>Contact Details</h2>
-        <p>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+ <footer>
+
+   
+
+Let's Work Together
+        <h2>+94762681582</h2>
+        <h2>sanjananethali4@gmail.com<h2/>
     </footer>
 </body>
 </html>
