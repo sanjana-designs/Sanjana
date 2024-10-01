@@ -13,7 +13,7 @@
    <div style="text-align: left;">
 <img src="https://github.com/sanjana-designs/Sanjana/blob/main/20241001_214438.jpg" alt="My Image" style="width: 180px; height: auto; border-radius: 50%;" />
 </div>
-   <p>Hello! I’m Sanjana, a passionate university student studyingbiotechnology with a keen interest in microbiology. I thrive oncreativity and innovation, always seeking new challenges that pushmy boundaries. I believe in lifelong learning and enjoy collaboratingwith others to bring ideas to life.</p>
+   <p>Hello! I’m Sanjana, a passionate university student studying biotechnology with a keen interest in microbiology. I thrive on creativity and innovation, always seeking new challenges that push my boundaries. I believe in lifelong learning and enjoy collaborating with others to bring ideas to life.</p>
         
 >
     
@@ -61,6 +61,8 @@
 
 
  <footer>
+
+
 
    
 
