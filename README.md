@@ -11,7 +11,7 @@
         
  <h1>Nethali Sanjana</h1>
      <div style="text-align: left;">
-<img "https://github.com/sanjana-designs/Sanjana/blob/main/20241001_214438.jpg" alt=" style="width: 180px; height: auto; border-radius: 50%;" />
+<img "https://github.com/sanjana-designs/Sanjana/blob/main/20241001_214438.jpg" alt="width: 180px; height: auto; border-radius: 50%;" />
 </div>
    <p>Hello! I’m Sanjana, a passionate university student studyingbiotechnology with a keen interest in microbiology. I thrive oncreativity and innovation, always seeking new challenges that pushmy boundaries. I believe in lifelong learning and enjoy collaboratingwith others to bring ideas to life.</p>
         
